@@ -1,0 +1,19 @@
+{
+    "name": "CJNode",
+    "description": "I’m CJ, a passionate blockchain contributor running validator nodes, a skilled graphics designer, an innovative video creator, a versatile content creator, and a dedicated researcher. My mission is to combine creativity, technology, and research to deliver exceptional results tailored to your needs",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "github",
+            "url": "https://github.com/cj-world"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "twitter.com/hover_1_"
+        }
+    ]
+}
